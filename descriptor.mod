@@ -1,5 +1,5 @@
 version="1.15.*"
-dependenicies = {
+dependencies = {
 	"Napoleonic Wars 1792-1815 | Alpha 1.15 Fixes"
 }
 tags={
