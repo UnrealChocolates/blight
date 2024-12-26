@@ -1,0 +1,38 @@
+capital = 11561
+
+
+set_convoys = 300
+
+add_ideas = {
+}
+
+set_politics = {
+	ruling_party = Tribalism
+	elections_allowed = no
+}
+set_popularities = {
+	Tribalism = 100
+}
+
+create_country_leader = {
+	name = "The Blight"
+	desc = ""
+	picture = BLI_the_blight.dds
+	ideology = Tribal
+	traits = {
+		#
+	}
+}	
+
+
+add_ideas = {
+}
+
+recruit_character = TRB_unexplored_land
+
+add_equipment_to_stockpile = {
+    type = infantry_equipment_1
+    amount = 40000
+    producer = RUS
+}
+
