@@ -34,7 +34,7 @@ defined_text = {
 	name = SE_Image
 	text = {
 		trigger = { check_variable = { NapWars_super_event = 0 } }
-		localization_key = "GFX_the_blight"
+		localization_key = "GFX_superevent_the_blight"
 	}
 }
 
