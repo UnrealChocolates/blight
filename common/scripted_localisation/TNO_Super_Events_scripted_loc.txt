@@ -1,0 +1,63 @@
+defined_text = {
+	name = SE_Image
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "GFX_superevent_war_of_the_first_coalition"
+	}
+}
+
+defined_text = {
+	name = SE_Title
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "WOFTFC_Title"
+	}
+}
+
+defined_text = {
+	name = SE_Quote
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "WOFTFC_Quote"
+	}
+}
+
+defined_text = {
+	name = SE_Close
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "WOFTFC_Close"
+	}
+}
+# The Blight super event
+defined_text = {
+	name = SE_Image
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "GFX_the_blight"
+	}
+}
+
+defined_text = {
+	name = SE_Title
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "TB_Title"
+	}
+}
+
+defined_text = {
+	name = SE_Quote
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "TB_Quote"
+	}
+}
+
+defined_text = {
+	name = SE_Close
+	text = {
+		trigger = { check_variable = { NapWars_super_event = 0 } }
+		localization_key = "TB_Close"
+	}
+}
