@@ -1,4 +1,4 @@
-capital = 11561
+capital = 3757
 
 
 set_convoys = 300
@@ -16,7 +16,7 @@ set_popularities = {
 
 create_country_leader = {
 	name = "The Blight"
-	desc = ""
+	desc = "Yes"
 	picture = BLI_the_blight.dds
 	ideology = Tribal
 	traits = {
