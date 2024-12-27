@@ -1,5 +1,6 @@
 music = { 
 	song = "superevent0"	
+	volume = 0.65
 	chance = {
 		modifier = {
 			factor = 0
@@ -7,7 +8,8 @@ music = {
 	}	
 }
 music = { 
-	song = "supereventblight"	
+	song = "superevent1"	
+	volume = 0.65
 	chance = {
 		modifier = {
 			factor = 0

@@ -34,6 +34,6 @@ country_event = {
 	option = { 
 		name = super.1.a
 		set_global_flag = superevent
-		play_song = "supereventblight"
+		play_song = "superevent1"
 	}
 }	
