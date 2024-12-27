@@ -34,7 +34,7 @@ country_event = {
 	option = { 
 		name = super.1.a
 		set_global_flag = superevent
-		set_variable = { NapWars_superevent = 0 }
+		set_variable = { NapWars_superevent = 1 }
 		play_song = "superevent1"
 	}
 }	

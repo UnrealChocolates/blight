@@ -31,7 +31,7 @@ defined_text = {
 # The Blight super event
 defined_text = {
 	name = SE_Image
-	trigger = { check_variable = { NapWars_super_event = 0 } }
+	trigger = { check_variable = { NapWars_super_event = 1 } }
 	text = {
 		localization_key = "GFX_superevent_the_blight"
 	}
@@ -39,7 +39,7 @@ defined_text = {
 
 defined_text = {
 	name = SE_Title
-	trigger = { check_variable = { NapWars_super_event = 0 } }
+	trigger = { check_variable = { NapWars_super_event = 1 } }
 	text = {
 		localization_key = "TB_Title"
 	}
@@ -47,7 +47,7 @@ defined_text = {
 
 defined_text = {
 	name = SE_Quote
-	trigger = { check_variable = { NapWars_super_event = 0 } }
+	trigger = { check_variable = { NapWars_super_event = 1 } }
 	text = {
 		localization_key = "TB_Quote"
 	}
@@ -55,7 +55,7 @@ defined_text = {
 
 defined_text = {
 	name = SE_Close
-	trigger = { check_variable = { NapWars_super_event = 0 } }
+	trigger = { check_variable = { NapWars_super_event = 1 } }
 	text = {
 		localization_key = "TB_Close"
 	}
