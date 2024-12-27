@@ -1,0 +1,16 @@
+music = { 
+	song = "superevent0"	
+	chance = {
+		modifier = {
+			factor = 0
+		}		
+	}	
+}
+music = { 
+	song = "supereventblight"	
+	chance = {
+		modifier = {
+			factor = 0
+		}		
+	}	
+}
