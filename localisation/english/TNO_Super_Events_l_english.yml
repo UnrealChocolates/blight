@@ -16,19 +16,7 @@
    super.0.d:0 ""
    super.0.a:0 "The world is at war again."
 # Blight super event
-    WOFTFC_Title:0 "The Blight"
-    WOFTFC_Quote:0 "And this shall be the plague wherewith the Lord will smite all the people that have fought against Jerusalem, Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.. \n― Zechariah 14:12
-    WOFTFC_Close:0 "Vampires! Cannibals! Madman!"
-    
-    
-    
-    
-    
-    
-   ##################
    
-   
-   
-   super.0.t:0 "The Blight"
-   super.0.d:0 ""
-   super.0.a:0 "Vampires! Cannibals! Madman!"
+   super.1.t:0 "The Blight"
+   super.1.d:0 "And this shall be the plague wherewith the Lord will smite all the people that have fought against Jerusalem, Their flesh shall consume away while they stand upon their feet, and their eyes shall consume away in their holes, and their tongue shall consume away in their mouth.. \n― Zechariah 14:12"
+   super.1.a:0 "The Dead shall walk the Earth."
